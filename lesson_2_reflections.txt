@@ -5,3 +5,26 @@ When you initialize a repository, git creates a new, empty,  repository. You nee
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area differs from the working directory and the repository in that it is a temporary holding area. The value it offers is that you can make changes before anything is finalized in the repository.
+
+How can you use the staging area to make sure you have one commit per logical change? 
+
+The staging area allows you to review the files that you are commiting before you commit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to create a different version, such as in a different language, or in a different mode, such as easy or hard, branches would be helpful in keeping your history organized. Branches would help because they would make it easier to keep track of the different versions.
+
+How do the diagrams help you visualize the branch structure?
+
+They helped me visualize the branch structure because they made it visual.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches together, the branch that branched off the master, branches back into the master, which creates the new tip of the master branch. You represent it in the diagram so that we can visualize what happens when we create a branch and then merge it back into the master branch.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+If you always merge maunally, you can decide to merge whenever times, but you might also forget to merge at times. If you use automatic merging, you won't have to worry about forgetting to merge, but you also won't be able to merge at the most oppertune moments. 
+
+
+
